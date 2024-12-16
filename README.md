@@ -20,7 +20,8 @@ t="drawing" width="600px"/>
 V projektu se k propojení jednotlivých komponent používá ekosystém GROVE od spol. seeed studio, díky kterému se do projektu dají zakomponovat další součásky bez potřeby jakéhokoli pájení(Pokud se nejedná o oficiální GROVE komponent tak se musí dopájet koncovka).
 
 ## Postup Zapojení
-1) 
+1) Zapojíme Raspberry Pi Pico 2 WH do Grove Shield pro RPi Pico v1.0
+   <img src="images/1.png" alt="drawing" width="600px"/>
 
 ## Schéma zapojení
 
