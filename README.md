@@ -9,6 +9,9 @@ z důvodu jejího neustálého přehřívání při letních sezónách.
 
 - Grove Shield pro RPi Pico v1.0
 - Grove - Relé
+- Vodotěsný teplotní senzor DS18B20
+- 1x Adaptér Grove na pin
+- 2x Grove 4pinový propojovací kabel žena-žena - 10 cm
 
 
 
