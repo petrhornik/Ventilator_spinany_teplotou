@@ -14,12 +14,13 @@ z důvodu jejího neustálého přehřívání při letních sezónách.
 - 1x Adaptér Grove na pin
 - 2x Grove 4pinový propojovací kabel žena-žena - 10 cm
 
-<img src="![Bez názvu](https://github.com/user-attachments/assets/c7849a5a-2999-4f18-b9c9-7afbac847985)" al
-t="drawing" width="50px"/>
+<img src="parts.png" al
+t="drawing" width="600px"/>
 
-
+V projektu se k propojení jednotlivých komponent používá ekosystém GROVE od spol. seeed studio, díky kterému se do projektu dají zakomponovat další součásky bez potřeby jakéhokoli pájení(Pokud se nejedná o oficiální GROVE komponent tak se musí dopájet koncovka).
 
 ## Postup Zapojení
+1) 
 
 ## Schéma zapojení
 
