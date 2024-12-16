@@ -24,6 +24,7 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
    <img src="images/1.png" alt="drawing" width="600px"/>
 
 2) Propojíme relé s Grove Shield pro RPi Pico v1.0
+
    <img src="images/2.png" alt="drawing" width="600px"/>
 
 ## Schéma zapojení
