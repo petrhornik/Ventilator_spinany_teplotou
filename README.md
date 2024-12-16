@@ -14,7 +14,17 @@ z důvodu jejího neustálého přehřívání při letních sezónách.
 - 1x Adaptér Grove na pin
 - 2x Grove 4pinový propojovací kabel žena-žena - 10 cm
 
-Projekt byl vytvořen s důrazem na modularitu a snadné připojení dalších komponent, proto je zde využita technologie GROVE od společnosti seeed studio, která poskytuje snadné propojeni komponent pomocí 4pinochých konektorů.
+![Image (1)](https://github.com/user-attachments/assets/7efefb37-b5c8-4f4c-b16d-547fcb55086b)
+
+
+## Postup Zapojení
+
+## Schéma zapojení
+
+## Věci do budoucna
+
+## Citace
+
 
 
 
