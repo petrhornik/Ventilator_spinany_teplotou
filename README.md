@@ -14,7 +14,8 @@ z důvodu jejího neustálého přehřívání při letních sezónách.
 - 1x Adaptér Grove na pin
 - 2x Grove 4pinový propojovací kabel žena-žena - 10 cm
 
-![Image (1)](https://github.com/user-attachments/assets/7efefb37-b5c8-4f4c-b16d-547fcb55086b)
+![Bez názvu](https://github.com/user-attachments/assets/79ddfb0c-c7f9-403e-82f7-1cabcf85abcd)
+
 
 
 ## Postup Zapojení
