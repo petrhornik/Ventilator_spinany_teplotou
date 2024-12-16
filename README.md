@@ -15,7 +15,7 @@ z důvodu jejího neustálého přehřívání při letních sezónách.
 - 2x Grove 4pinový propojovací kabel žena-žena - 10 cm
 
 <img src="parts.png" al
-t="drawing" width="1000px"/>
+t="drawing" width="700px"/>
 
 
 
