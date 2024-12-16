@@ -20,7 +20,7 @@ t="drawing" width="600px"/>
 V projektu se k propojení jednotlivých komponent používá ekosystém GROVE od spol. seeed studio, díky kterému se do projektu dají zakomponovat další součásky bez potřeby jakéhokoli pájení(Pokud se nejedná o oficiální GROVE komponent tak se musí dopájet koncovka).
 
 ## Postup Zapojení
-
+1) 
 
 ## Schéma zapojení
 
