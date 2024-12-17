@@ -31,7 +31,8 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
 
 ## Věci do budoucna
 
-## Citace
+## Odkazy
+
 
 
 
