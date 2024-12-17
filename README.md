@@ -30,6 +30,7 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
 3) Napájíme adaptér Grove na pin na DS18B20
 
    <img src="images/teplomer konektory.png" alt="drawing" width="300px"/>
+   <img src="images/konektor.png" alt="drawing" width="300px"/>
 ## Schéma zapojení
 
 ## Věci do budoucna
