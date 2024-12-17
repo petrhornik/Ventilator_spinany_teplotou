@@ -27,6 +27,9 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
 
    <img src="images/2.png" alt="drawing" width="600px"/>
 
+3) Napájíme adaptér Grove na pin na DS18B20
+
+   
 ## Schéma zapojení
 
 ## Věci do budoucna
