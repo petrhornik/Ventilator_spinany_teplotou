@@ -32,6 +32,8 @@ Odkaz na program -> [PROGRAM](https://github.com/petrhornik/Ventilator_spinany_t
 
    Teploměr bude umístěn na či do žebrování fotovoltaické rozvodny, čož je hlavní zdroj vzniku tepla. Pokud naměřená teplota překročí 35 stupňů Celsia tak se sepne relé. Na relé je přivedena fáze ventilátoru, který je zespoda namířen na fotovoltaickou rozvodnu tak, aby horký vzduch unikal vrchem. Díky tomuto nedojde k foukání studeného vzduchu na teploměr. [V budoucnu přibydou další funkce!]
 
+   <img src="images/popis.png" alt="drawing" width="1000px"/>
+
 ## Postup Zapojení
 ### 1) Zapojíme Raspberry Pi Pico 2 WH do Grove Shield pro RPi Pico v1.0
    <img src="images/1.png" alt="drawing" width="600px"/>
