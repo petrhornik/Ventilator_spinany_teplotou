@@ -35,7 +35,7 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
    <img src="images/pajeni.png" alt="drawing" width="600px"/>
 
    4) Propojíme teploměr s Grove Shield pro RPi Pico v1.0(D20)
-      
+      <img src="images/3.png" alt="drawing" width="300px"/>
 ## Schéma zapojení
 
 ## Věci do budoucna
