@@ -31,6 +31,7 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
 
    <img src="images/teplomer konektory.png" alt="drawing" width="300px"/>
    <img src="images/konektor.png" alt="drawing" width="300px"/>
+   <img src="images/pajeni.png" alt="drawing" width="300px"/>
 ## Schéma zapojení
 
 ## Věci do budoucna
