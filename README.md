@@ -42,6 +42,12 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
 
 
    <img src="images/4.png" alt="drawing" width="600px"/>
+
+   1) Grove Shield pro RPi Pico v1.0
+   2) Raspberry Pi Pico 2 WH
+   3) Grove - Relé
+   4) Teplotní čidlo DS18B20
+   5) Adaptér Grove na pin
 ## Schéma zapojení
 
 ## Věci do budoucna
