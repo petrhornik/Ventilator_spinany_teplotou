@@ -71,7 +71,7 @@ Odkaz na program -> [PROGRAM](https://github.com/petrhornik/Ventilator_spinany_t
 
 ## Věci do budoucna
 
-   V budoucnu planuji udělat krabičku/obal na zakrytí celého projektu do "jednoho celku." Také chci přidat další funkce, např.: měnění rozhodovací teploty pomocí webového rozhraní, připojení dalších čidel, propojení s jinými projekty skrze Raspberry PI 5(DIY chytrá domáctnost).
+   V budoucnu plánuji udělat krabičku/obal na zakrytí celého projektu do "jednoho celku" pravděpodobně na 3D tisku. Také chci přidat další funkce, např.: měnění rozhodovací teploty pomocí webového rozhraní, připojení dalších čidel, propojení s jinými projekty skrze Raspberry PI 5(DIY chytrá domáctnost).
 
 ## Citace a literatura
 
