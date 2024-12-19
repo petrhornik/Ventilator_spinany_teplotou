@@ -40,6 +40,8 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
 
 5) Finální podoba
 
+
+   <img src="images/4.png" alt="drawing" width="600px"/>
 ## Schéma zapojení
 
 ## Věci do budoucna
