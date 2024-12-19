@@ -23,7 +23,7 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
 1) Zapojíme Raspberry Pi Pico 2 WH do Grove Shield pro RPi Pico v1.0
    <img src="images/1.png" alt="drawing" width="600px"/>
 
-2) Propojíme relé s Grove Shield pro RPi Pico v1.0
+2) Propojíme relé s Grove Shield pro RPi Pico v1.0(D16)
 
    <img src="images/2.png" alt="drawing" width="600px"/>
 
@@ -33,6 +33,9 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
    <img src="images/konektor.png" alt="drawing" width="300px"/>
 
    <img src="images/pajeni.png" alt="drawing" width="600px"/>
+
+   4) Propojíme teploměr s Grove Shield pro RPi Pico v1.0(D20)
+      
 ## Schéma zapojení
 
 ## Věci do budoucna
