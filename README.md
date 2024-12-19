@@ -22,6 +22,10 @@ V projektu se k propojení jednotlivých komponent používá ekosystém GROVE o
 
 Pokud nechcete používat ekosystém GROVE, tak tento projekt lze zrealizovat i pomocí nepajivého pole či přímého spojení drátů.
 
+## Tvoření projektu
+
+   Se samotným nápadem přišel můj otec, když jsem se ho ptal co bych mohl udělat za projekt. Tento projekt se mi ih
+
 ## Postup Zapojení
 ### 1) Zapojíme Raspberry Pi Pico 2 WH do Grove Shield pro RPi Pico v1.0
    <img src="images/1.png" alt="drawing" width="600px"/>
@@ -41,12 +45,15 @@ Pokud nechcete používat ekosystém GROVE, tak tento projekt lze zrealizovat i 
 
    <img src="images/pajeni.png" alt="drawing" width="600px"/>
 
+   Při pájení musíme také dbát zvýšené pozornosti, jelikož adaptér má atypické rozložení pinů na staně pájení(napájecí 3v3 a signálový jsou prohozené). Zároveň plast pokrývající konce "pájecích" pinů je velmi náchilný na vysoké teploty a při pájení se plast může "uškvařit" a poté je konektor nepoužitelný.
+
 ### 4) Propojíme teploměr s Grove Shield pro RPi Pico v1.0(D20)
 
    <img src="images/3.png" alt="drawing" width="600px"/>
 
 ### 5) Finální podoba
 
+   Po zapojení všech komponent dle návodu by váš výsledek měl vypadat nějak takto :D.
 
    <img src="images/4.png" alt="drawing" width="600px"/>
 
@@ -55,7 +62,6 @@ Pokud nechcete používat ekosystém GROVE, tak tento projekt lze zrealizovat i 
    3) Grove - Relé
    4) Teplotní čidlo DS18B20
    5) Adaptér Grove na pin
-## Schéma zapojení
 
 ## Věci do budoucna
 
