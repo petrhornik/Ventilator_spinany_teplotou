@@ -82,6 +82,14 @@ Odkaz na program -> [PROGRAM](https://github.com/petrhornik/Ventilator_spinany_t
    
    [VÍČKO](https://github.com/petrhornik/Ventilator_spinany_teplotou/blob/main/3D_model_krabicka/Vicko%20-%20vetrak.stl)
 
+## Video
+
+   
+   
+
+
+
+
 ## Věci do budoucna
 
    V budoucnu plánuji udělat krabičku/obal na zakrytí celého projektu do "jednoho celku" pravděpodobně na 3D tisku. Také chci přidat další funkce, např.: měnění rozhodovací teploty pomocí webového rozhraní, připojení dalších čidel, propojení s jinými projekty skrze Raspberry PI 5(DIY chytrá domáctnost).
