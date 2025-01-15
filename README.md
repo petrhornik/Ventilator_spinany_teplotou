@@ -87,7 +87,7 @@ Odkaz na program -> [PROGRAM](https://github.com/petrhornik/Ventilator_spinany_t
    
    https://youtu.be/8o-7jNo1G1U
 
-   Poznámka: Počítač je ve videu připojen pouze z důvodu zobrazování teploty pro video, pro finální funkci stačí připojit RPI Pico pouze k napíjení.
+   Poznámka: Počítač je ve videu připojen pouze z důvodu zobrazování teploty pro video, pro finální funkci stačí připojit RPI Pico pouze k napájení.
 ## Věci do budoucna
 
    Chci později přidat další funkce, např.: měnění rozhodovací teploty pomocí webového rozhraní, připojení dalších čidel, propojení s jinými projekty skrze Raspberry PI 5(DIY chytrá domáctnost).
